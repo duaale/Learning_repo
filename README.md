@@ -1,5 +1,5 @@
 # an Example of repository
 
-Welcome first Git, "Welcome first Git example"
+Welcome first Git, "Hello World!"
 
 This is second change
